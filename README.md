@@ -7,3 +7,4 @@
 ![step7](https://github.com/SadhoN001/OOP_Project_Periodic_Table/assets/131511174/9c4f8b48-897b-4a17-93db-f41019401076)
 ![step8](https://github.com/SadhoN001/OOP_Project_Periodic_Table/assets/131511174/117a13e4-d8a2-4277-b60e-bd1fa1a4ed61)
 
+Nb:("Some elements are not given in the periodic table")
